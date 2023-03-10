@@ -16,3 +16,7 @@ Instead, add the following to your [CSS snippets](https://github.com/Dmytro-Shul
 See:
 - https://forum.obsidian.md/t/how-to-stop-the-blinking-cursor-in-vim-mode/9431
 - https://forum.obsidian.md/t/allow-stopping-the-cursor-from-blinking/39819/6
+
+# Customize Cursor Color
+See:
+- https://forum.obsidian.md/t/how-to-change-block-cursor-color-vim-mode/7429/13?u=xnhp
